@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **m4d1c1n4l@proton.me**
 
-- ⚡ Fun fact **i love cat / reading **
+- ⚡ Fun fact **i love cat / reading**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
