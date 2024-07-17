@@ -3,11 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=m4d1c1n4l&label=Profile%20views&color=0e75b6&style=flat" alt="m4d1c1n4l" /> </p>
 
-- 🌱 I’m currently learning **Rust**
+- 🌱 I’m currently learning **Assembly**
 
 - 📫 How to reach me **m4d1c1n4l@proton.me**
 
-- ⚡ Fun fact **i love cat**
+- ⚡ Fun fact **i love cat / reading **
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
